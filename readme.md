@@ -1,0 +1,1 @@
+A toy sigle-thread algorithm library, implemented in C++
